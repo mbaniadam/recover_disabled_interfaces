@@ -129,4 +129,4 @@ print('Please Wait...')
 network_devices = [{'host':host,'username':'get_username','password':'get_pass','device_type':'cisco_ios'}]
 
 get_ports(network_devices):
-print("\n-------------------------- End --------------------------")
+print("\n--------------------------- End ---------------------------")
